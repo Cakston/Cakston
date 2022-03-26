@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cakston
-- 👀 I’m interested in Android & iOS application development
-- 🌱 I’m currently learning flutter
+- 👀 Android & iOS application development
 - 📫 How to reach me @cakston28012000@gmail.com
 
 <!---
