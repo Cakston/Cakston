@@ -1,4 +1,4 @@
-Hi there! 👋
+![Cakston Calvin](https://github.com/Cakston/Cakston/assets/85932702/f96edc53-4853-413b-8e9c-4be8939407d8)
 
 About Me
 
@@ -18,5 +18,5 @@ I'm Cakston Calvin
 
 
 
-Connect with me : [![https://www.linkedin.com/in/cakston/](https://github.com/Cakston/Cakston/assets/85932702/86611973-8f18-468c-a643-96bd9bb644d3)](https://www.linkedin.com/in/cakston/)   [![Instagram](https://github.com/Cakston/Cakston/assets/85932702/c93264a6-f2c0-48a0-a355-810b3ccc8d06)](https://www.instagram.com/_mr_lonely_c_/)
+Connect with me : [![linkedin](https://github.com/Cakston/Cakston/assets/85932702/0d401033-4fec-40ac-b008-e26250badc15)](https://www.linkedin.com/in/cakston/)   [![Instagram](https://github.com/Cakston/Cakston/assets/85932702/c93264a6-f2c0-48a0-a355-810b3ccc8d06)](https://www.instagram.com/_mr_lonely_c_/) 
 
