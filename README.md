@@ -1,7 +1,11 @@
 Hi there! 👋
 
-**About Me
+About Me
+
 I'm Cakston Calvin 
-**🎓 Student at Warsaw University of Technology
+
+🎓 Student at Warsaw University of Technology
+
 💻 Flutter Developer
+
 📱 Android & iOS Native Development Enthusiast
