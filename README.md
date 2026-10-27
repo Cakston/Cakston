@@ -1,25 +1,75 @@
-# 💫 About Me:
-👋 Hi, I'm Cakston Calvin<br><br>🎓 Student at Warsaw University of Technology<br><br>💻 Flutter Developer | 📱 Android & iOS Enthusiast<br><br>I specialize in Flutter development with 2 years of experience, complemented by a background in native Android and iOS app development. I'm passionate about crafting high-quality software solutions that meet client needs and staying updated with the latest industry trends. Let's collaborate and create something amazing!
+# Hi, I'm Cakston C 👋
 
+### Mobile Application Developer | Flutter & React Native
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cakston_calvin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cakston) 
+I'm a software developer passionate about building reliable, user-friendly mobile applications and modern web experiences. I enjoy turning ideas into practical digital solutions through clean code, thoughtful UI/UX, and continuous learning.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cakston&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cakston&theme=dark&hide_border=true)<br/>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+🌐 **Portfolio:** [cakstonportfolio.vercel.app](https://cakstonportfolio.vercel.app/)  
+💻 **GitHub:** [github.com/cakston](https://github.com/cakston)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cakston&icon=3&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cakston_calvin) 
+### 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📱 Focused on mobile application development using Flutter and React Native.
+- 🌐 Experienced in building responsive web applications using React and TypeScript.
+- 🔥 Interested in Firebase integration, REST APIs, authentication, and payment gateways.
+- 🛠️ Enjoy building real-world applications that solve practical problems.
+- 📚 Always exploring new technologies and improving my development skills.
+
+---
+
+### 🧰 Tech Stack
+
+**Mobile Development**  
+Flutter · Dart · React Native · TypeScript
+
+**Web Development**  
+React · JavaScript · HTML5 · CSS3
+
+**Backend & Integration**  
+Firebase · REST APIs · Axios · Authentication · Payment Gateway Integration
+
+**Tools & Platforms**  
+Git · GitHub · Android Studio · VS Code · Postman
+
+---
+
+### 💼 Featured Projects
+
+#### 📱 Mobile Billing & Inventory Application
+A Flutter-based application designed to simplify product management, inventory tracking, sales monitoring, and bill generation with Bluetooth printer integration.
+
+**Technologies:** Flutter, Dart, Barcode Scanning, Bluetooth Printing
+
+🔗 [Explore Repository](https://github.com/Cakston/mobile_billing)
+
+#### 🚗 Rahoul Rentals
+A mobile car rental application focused on vehicle discovery, booking management, authentication, and payment integration.
+
+**Technologies:** React Native, TypeScript, Firebase Authentication, REST APIs
+
+#### 🌾 AGRIFARMX
+A digital platform designed to connect agricultural students and farmers through announcements, events, agricultural resources, and community-focused features.
+
+**Technologies:** Flutter, Dart, Firebase Authentication, Cloud Firestore
+
+---
+
+### 📊 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/calvac-infotech)
+
+---
+
+### 🤝 Let's Connect
+
+I'm interested in collaborating on meaningful projects, exploring new technologies, and connecting with fellow developers.
+
+🌐 Portfolio: [Visit My Website](https://cakstonportfolio.vercel.app/)  
+💻 GitHub: [Follow My Work](https://github.com/cakston)  
+📧 Email: cakston.dev@gmail.com
+
+---
+
+*Building useful digital experiences, one project at a time.*
