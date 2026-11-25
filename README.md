@@ -56,12 +56,6 @@ A digital platform designed to connect agricultural students and farmers through
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/cakston)
-
----
-
 ### 🤝 Let's Connect
 
 I'm interested in collaborating on meaningful projects, exploring new technologies, and connecting with fellow developers.
