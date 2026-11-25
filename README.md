@@ -58,7 +58,7 @@ A digital platform designed to connect agricultural students and farmers through
 
 ### 📊 GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/calvac-infotech)
+![GitHub Contribution Graph](https://ghchart.rshah.org/cakston)
 
 ---
 
